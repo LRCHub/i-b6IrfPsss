@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Hachikō",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2025-12-10T09:09:41.793121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hachiko",
+      "artist": "Wild Nothing",
+      "has_synced": false,
+      "path": "select/01_Hachiko_Wild_Nothing.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hachiko",
+      "artist": "Mac DeMarco",
+      "has_synced": false,
+      "path": "select/02_Hachiko_Mac_DeMarco.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hachikō",
+      "artist": "Suzuya",
+      "has_synced": true,
+      "path": "select/03_Hachikō_Suzuya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hachikō",
+      "artist": "Suzuya",
+      "has_synced": true,
+      "path": "select/04_Hachikō_Suzuya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hachiko (The Faithtful Dog)",
+      "artist": "The Kyoto Connection",
+      "has_synced": false,
+      "path": "select/05_Hachiko_(The_Faithtful_Dog)_The_Kyoto_Connection.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hachikō",
+      "artist": "tuv",
+      "has_synced": true,
+      "path": "select/06_Hachikō_tuv.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hachiko",
+      "artist": "BIG Naughty feat. Sion, Yescoba, 안다영",
+      "has_synced": true,
+      "path": "select/07_Hachiko_BIG_Naughty_feat._Sion,_Yescoba,_안다영.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hachiko",
+      "artist": "BIG Naughty",
+      "has_synced": true,
+      "path": "select/08_Hachiko_BIG_Naughty.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hachiko",
+      "artist": "BIG Naughty feat. 시온, Yescoba, Ahn, Dayoung",
+      "has_synced": true,
+      "path": "select/09_Hachiko_BIG_Naughty_feat._시온,_Yescoba,_Ahn,_Dayoung.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "HACHIKŌ",
+      "artist": "tuv",
+      "has_synced": true,
+      "path": "select/10_HACHIKŌ_tuv.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
+      "artist": "Big Naughty",
+      "has_synced": true,
+      "path": "select/11_Hachiko_(Feat._Sion,_Yescoba,_Dayoung_Ahn)_Big_Naughty.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn) (Hachiko (Feat. 시온, Yescoba, 안다영))",
+      "artist": "BIG Naughty",
+      "has_synced": true,
+      "path": "select/12_Hachiko_(Feat._Sion,_Yescoba,_Dayoung_Ahn)_(Hachiko_(Feat._시온,_Yescoba,_안다영))_BIG_Naughty.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hachiko",
+      "artist": "DeMarco, Mac",
+      "has_synced": true,
+      "path": "select/13_Hachiko_DeMarco,_Mac.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hachiko (Feat. 시온, Yescoba, 안다영)",
+      "artist": "BIG Naughty (서동현)",
+      "has_synced": true,
+      "path": "select/14_Hachiko_(Feat._시온,_Yescoba,_안다영)_BIG_Naughty_(서동현).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hachikō",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_Hachikō_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Hachikō",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_Hachikō_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Hachikō",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_Hachikō_藤井_風.txt"
+    }
+  ]
+}
